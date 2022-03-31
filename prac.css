@@ -1,0 +1,11 @@
+h1{
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: blue;
+    outline: solid 5px red;
+    text-align: center;
+    padding: 20px;
+    padding: 20px 10px 5px 6px;
+    margin: 2% 5% 10% 6%;
+}

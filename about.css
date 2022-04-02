@@ -1,10 +1,13 @@
 table{
     width: 90%;
-    position: relative;
-    padding-left: 250px;
+    /* padding-left: 25px; */
+    margin-left: -80%;
+    margin-top: 5%;
+    margin-right: 50%;
+    text-align: center;
 }
 th{
-    text-align:left;
+    text-align:center;
 }
 table ,th ,td{
     border: 1px solid ;
@@ -14,13 +17,11 @@ table ,th ,td{
 }
 th,td{
     padding: 10px;
+    
 }
 
 body{
-    background-image: url(Journal.pg);
-    background-position: 100%;
-    background-size: cover;
-    background-repeat: no-repeat;
+  
     margin: 0;
 
 }
@@ -67,11 +68,12 @@ h1{
 footer{
     position: fixed;
     bottom: 0;
-    padding-left: 40%;
+    /* padding-left: 40%; */
     background-color: black;
     color: white;
-    width: 100%;
+    width: 300%;
     font-style: normal;
+    padding-left: 20%;
 }
 
 /* .topnav, ul, a{
@@ -84,25 +86,20 @@ footer{
    } */
  
  body {
-    background-image: url();
+    background-image: url(/background2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
    
  }
   
-table, .novels{
-    padding-top: 30px;
-    padding-bottom: 20px;
-    border: 2px;
-    border-color:white;
-}
-video{
+
+/* video{
     
      display:block;margin: auto;
-}
+} */
 
 .tbs{
-    margin-left: 7%;
+    margin-left: 5%;
 }
 nav{
     background-color:black;
